@@ -12,7 +12,3 @@ cd to folder containing desired pngs, and:
 convert -delay 1x30 *.png out.gif
 ```
 The gif, called "out.gif" will be written into this directory.
-<<<<<<< HEAD
-
-=======
->>>>>>> 5e37f98658e63b5fec31aab41f0475c2ecfddf77
