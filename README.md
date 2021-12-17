@@ -6,7 +6,8 @@
 Edit the the original files (affinity designer: .afdesign -- or -- adobe: .psd) and export as png. 
 *note: files were created with Affinity Designer (https://affinity.serif.com/en-us/) and exported as .psd for adobe compatability. adobe's layer effects are different, thus for each bud-shape you will need to adjust the inner shape's fill to be transparent or match the background.
 
-### To convert pngs to gifs, cd to folder containing desired pngs, and:
+### To convert pngs to gifs: 
+cd to folder containing desired pngs, and:
 ```
 convert -delay 1x30 *.png out.gif
 ```
