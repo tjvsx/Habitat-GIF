@@ -7,7 +7,8 @@ Edit the the original files (affinity designer: .afdesign -- or -- adobe: .psd) 
 
 *note: files were created with Affinity Designer (https://affinity.serif.com/en-us/) and exported as .psd for adobe compatability. adobe's layer effects are different, thus for each bud-shape you will need to adjust the inner shape's fill to be transparent and/or match the background.
 
-Duplicate the unaltered logo (00.png), rename to 99.png and duplicate 20+ times (for rest period between animations). total frames ~50. 
+### To create rest period between animations (heartbeat effect):
+Duplicate the unaltered logo (00.png), rename to 99.png and duplicate 30+ times. total frames ~50. 
 
 
 ### To convert pngs to gifs:
