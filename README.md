@@ -26,6 +26,7 @@ sudo apt install imagemagick
 ```
 
 
+
 cd to folder containing desired pngs, and:
 ```
 convert -delay 1x30 *.png out.gif
