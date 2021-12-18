@@ -3,7 +3,7 @@
 ![out](https://user-images.githubusercontent.com/62122206/146614551-a211af81-1b78-4e72-ba21-303f2e43b7a6.gif)
 
 ### To create frames:
-Edit each of the original files (affinity designer: .afdesign -- or -- adobe: .psd) and export as png. 
+Edit the original files (affinity designer: .afdesign -- or -- adobe: .psd) and export each as png. 
 
 *note: files were created with Affinity Designer (https://affinity.serif.com/en-us/) and exported as .psd for adobe compatability. adobe's layer effects are different, thus for each bud-shape you will need to adjust the inner shape's fill to be transparent and/or match the background.
 
