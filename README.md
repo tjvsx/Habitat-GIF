@@ -13,6 +13,7 @@ Edit the the original files (affinity designer: .afdesign -- or -- adobe: .psd) 
 first copy the unaltered logo (00.png) as 99.png and duplicate for rest period between animation. total frames ~50. 
 
 Install ImageMagick:
+
 mac:
 ```
 brew install ImageMagick
